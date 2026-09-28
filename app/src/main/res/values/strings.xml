@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Root Checker</string>
+    <string name="header_subtitle">Checking this device for root access</string>
+
+    <string name="hero_idle_title">Ready to scan</string>
+    <string name="hero_idle_sub">Diagnostics: 14 independent checks</string>
+
+    <string name="hero_scanning_title">Scanning device…</string>
+    <string name="hero_scanning_sub">Running system, firmware and app checks</string>
+
+    <string name="hero_safe_title">No root detected</string>
+    <string name="hero_safe_sub">No traces of root access were found on this device</string>
+
+    <string name="hero_warn_title">Root possible</string>
+    <string name="hero_warn_sub">Indirect signs were found — review the check list below</string>
+
+    <string name="hero_root_title">Root detected</string>
+    <string name="hero_root_sub">Root access is present on this device</string>
+
+    <string name="check_now">Check now</string>
+    <string name="retry">Check again</string>
+    <string name="scanning">Checking…</string>
+    <string name="results_title">Check results</string>
+
+    <string name="status_ok">OK</string>
+    <string name="status_root">ROOT</string>
+    <string name="status_warn">WARNING</string>
+    <string name="status_unknown">N/A</string>
+
+    <string name="language">Language</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_english">English</string>
+    <string name="lang_ukrainian">Українська</string>
+</resources>

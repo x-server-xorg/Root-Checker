@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основная палитра (тёмная тема) -->
+    <color name="primary">#AEB2FF</color>
+    <color name="on_primary">#21246F</color>
+    <color name="primary_container">#363A9E</color>
+    <color name="on_primary_container">#DFE0FF</color>
+
+    <color name="secondary">#80D5CB</color>
+    <color name="on_secondary">#053731</color>
+    <color name="secondary_container">#0F544D</color>
+    <color name="on_secondary_container">#CCEDE8</color>
+
+    <color name="background">#101018</color>
+    <color name="on_background">#E5E5EF</color>
+
+    <color name="surface">#16161F</color>
+    <color name="on_surface">#E5E5EF</color>
+    <color name="surface_container">#22222D</color>
+    <color name="surface_variant">#2C2C3A</color>
+    <color name="on_surface_variant">#C4C4D6</color>
+
+    <color name="outline">#8D8DA1</color>
+    <color name="outline_variant">#3E3E4F</color>
+
+    <color name="error">#F2B8B5</color>
+    <color name="on_error">#601410</color>
+
+    <!-- Статусы проверок -->
+    <color name="status_safe">#69E0B4</color>
+    <color name="status_warn">#F2C14E</color>
+    <color name="status_root">#F2B8B5</color>
+    <color name="status_unknown">#A9A9BC</color>
+
+    <!-- Hero-карточка -->
+    <color name="hero_idle_bg">#232447</color>
+    <color name="hero_safe_bg">#14352B</color>
+    <color name="hero_warn_bg">#3B3016</color>
+    <color name="hero_root_bg">#3E1E1C</color>
+    <color name="hero_title">#EDEDF7</color>
+    <color name="hero_subtitle">#B6B6CA</color>
+
+    <color name="progress_track">#3A3B72</color>
+
+    <!-- Иконка приложения -->
+    <color name="ic_launcher_background">#21246F</color>
+</resources>

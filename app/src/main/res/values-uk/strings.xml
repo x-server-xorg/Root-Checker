@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Root Checker</string>
+    <string name="header_subtitle">Перевірка наявності root-доступу на пристрої</string>
+
+    <string name="hero_idle_title">Готовий до перевірки</string>
+    <string name="hero_idle_sub">Діагностика: 14 незалежних перевірок</string>
+
+    <string name="hero_scanning_title">Перевіряємо пристрій…</string>
+    <string name="hero_scanning_sub">Виконуються перевірки системи, прошивки та застосунків</string>
+
+    <string name="hero_safe_title">Root не виявлено</string>
+    <string name="hero_safe_sub">Ознак root-доступу на пристрої не знайдено</string>
+
+    <string name="hero_warn_title">Можливий root</string>
+    <string name="hero_warn_sub">Знайдено непрямі ознаки — перегляньте список перевірок нижче</string>
+
+    <string name="hero_root_title">Root виявлено</string>
+    <string name="hero_root_sub">На пристрої є root-доступ</string>
+
+    <string name="check_now">Перевірити</string>
+    <string name="retry">Перевірити ще раз</string>
+    <string name="scanning">Перевірка…</string>
+    <string name="results_title">Результати перевірок</string>
+
+    <string name="status_ok">OK</string>
+    <string name="status_root">ROOT</string>
+    <string name="status_warn">УВАГА</string>
+    <string name="status_unknown">н/д</string>
+
+    <string name="language">Мова</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_english">English</string>
+    <string name="lang_ukrainian">Українська</string>
+</resources>
