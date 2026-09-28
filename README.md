@@ -35,7 +35,6 @@ shown to the user with a human-readable explanation instead of a bare true/false
 
 | Artifact | Path |
 |---|---|
-| **Release APK (debug-signed)** | `/home/valance78/RootChecker.apk` |
 | Build output | `RootChecker/app/build/outputs/apk/debug/app-debug.apk` |
 | **Application ID** | `com.valance78.rootcheck` (namespace for sources: `com.fluent.rootchecker`) |
 
